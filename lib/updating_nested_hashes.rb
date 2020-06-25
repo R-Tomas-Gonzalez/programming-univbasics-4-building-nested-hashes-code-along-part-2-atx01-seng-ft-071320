@@ -20,7 +20,7 @@ def update_status
       }
    }
 
-puts epic_tragedy
+puts update_status
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
   # Code your solution here:
 
