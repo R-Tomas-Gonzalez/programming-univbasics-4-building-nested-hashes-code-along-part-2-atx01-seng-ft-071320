@@ -19,7 +19,10 @@ def update_status
          ]
       }
    }
+ end
 
+ def add_characters
+   
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
   # Code your solution here:
 
